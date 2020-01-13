@@ -1,0 +1,12 @@
+div#board {
+    padding: 3em;
+    text-align: center;
+}
+
+div.row {
+    float: left;
+    height: 100px;
+    width: 100px;
+    clear: both;
+    margin: 0 auto;
+}
