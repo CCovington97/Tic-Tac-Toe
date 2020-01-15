@@ -1,7 +1,7 @@
 Objective
     In this lab, you will finish your Tic Tac Toe game! Let's add interactivity and make it work :)
 
-    Note: You should have already have the game board for Tic Tac Toe from the previous lab.
+    Note: You should already have the game board for Tic Tac Toe from the previous lab.
 
 Requirements
     In order for the game to work, you need to write JavaScript that will interact with your HTML elements. The requirements for the game are:
@@ -29,6 +29,6 @@ Coding the Game
         3) Have fun! This will probably be frustrating in a lot of ways, but when you finish, you will have learned something of significance. You'll be able to use the skills you learn to build other front-end ideas you have :)
 
     Happy Coding!
-    
+
     P.S. Show off your creation in Discord once you finish!
 
