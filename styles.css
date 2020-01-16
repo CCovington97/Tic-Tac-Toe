@@ -38,3 +38,32 @@ div.row > div {
 .row:hover {
     cursor: pointer;
 }
+
+.cell {
+    font-size: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cell:hover {
+    background-color: gray;
+}
+
+.title {
+    color: yellow;
+    text-decoration: underline;
+}
+
+.winner {
+    display: none;
+    padding: 10px;
+    font-size: 32px;
+    color: violet;
+}
+
+.reset {
+    padding: 10px;
+    margin: 30px;
+    align: center;
+}
